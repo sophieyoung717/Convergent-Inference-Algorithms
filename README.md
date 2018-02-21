@@ -4,8 +4,8 @@
 
 # How to run:
 
-- compile all .java file.
-- Input graph can be downloaded from: [Bayesian Network Repository] (http://www.bnlearn.com/bnrepository/), example child.dsc
+- compile all .java files.
+- Input graph can be downloaded from: [Bayesian Network Repository] (http://www.bnlearn.com/bnrepository/), example: child.dsc
 - For child graph, run Main_Child.java
-- Result is in four .txt tile name at the beginning of Main_Child.java
+- Result is in 4 .txt files with name at the beginning of Main_Child.java
 - For more details, see paper: https://openproceedings.org/2017/conf/edbt/paper-171.pdf
